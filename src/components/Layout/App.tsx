@@ -17,10 +17,11 @@ export function App(): JSX.Element {
                     Statement
                 </AlertTitle>
 
-                Hi, my name is James, a junior full stack developer, and this is my personal website.
-                I like writing web application in my leisure time, and deploying them on my personal website.
-                The homepage of this website is still under construction, but you can check out my applications
-                by following links: <br />
+                Hello, I'm James, a junior full stack developer, and welcome to my personal website.
+                During my leisure time, I enjoy crafting web applications and deploying them right here on this
+                platform.
+                While the homepage of this website is currently under construction, you can explore my applications by
+                following the provided links below: <br />
 
                 <ul>
                     <li>
