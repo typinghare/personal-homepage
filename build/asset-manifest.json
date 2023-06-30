@@ -1,13 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.c46cebd0.css",
-    "main.js": "/static/js/main.bdce0371.js",
+    "main.js": "/static/js/main.66c0f5d8.js",
+    "static/media/supervisor_desktop.png": "/static/media/supervisor_desktop.3594f4a3b8fbc945e3bd.png",
+    "static/media/supervisor_mobile.png": "/static/media/supervisor_mobile.3a61e2b10afd79ccc75d.png",
+    "static/media/board-game-clock_game-settings.png": "/static/media/board-game-clock_game-settings.aabae660f54b64e59131.png",
+    "static/media/board-game-clock_clock.png": "/static/media/board-game-clock_clock.db7b68ef0f22b6c98aa1.png",
     "index.html": "/index.html",
     "main.c46cebd0.css.map": "/static/css/main.c46cebd0.css.map",
-    "main.bdce0371.js.map": "/static/js/main.bdce0371.js.map"
+    "main.66c0f5d8.js.map": "/static/js/main.66c0f5d8.js.map"
   },
   "entrypoints": [
     "static/css/main.c46cebd0.css",
-    "static/js/main.bdce0371.js"
+    "static/js/main.66c0f5d8.js"
   ]
 }
